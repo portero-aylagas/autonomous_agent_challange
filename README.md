@@ -7,8 +7,7 @@ The chosen concept is an enterprise-style `QA Intake Agent` for automotive infot
 ## Repository Map
 
 - `project_plan.md`: Main lab deliverable with the full project plan
-- `lab_summary.md`: Short reflection required by the assignment
-- `lab_source/`: Saved source material from the Ironhack student portal
+- `lab_summary.md`: Short reflection of the project
 
 ## How to Use This Repository
 
